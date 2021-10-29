@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joozvvicky
-- 👀 I’m interested in Web Development, Mobile Development and Desktop Development.
+- 👀 I’m interested in programming a Web, Desktop and Mobile applications.
 - 🌱 I’m currently learning React and Next.js.
 - 💞️ I’m looking to collaborate on Web or NodeJS projects.
 - 📫 How to reach me? You can write me message: https://www.facebook.com/joozvvicky.
